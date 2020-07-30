@@ -1,0 +1,6 @@
+# Ignore pyinstaller build dirs
+
+__pycache__/
+build/
+dist/
+ascii_for_discord.spec
