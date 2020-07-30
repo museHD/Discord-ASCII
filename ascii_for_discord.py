@@ -6,7 +6,7 @@ print("-------------------------------------------------------------------------
 print(pyfiglet.figlet_format("Discord ASCII Generator"))
 print("-----------------------------------------------------------------------------------------------------------------------")
 print('Release: 0.1.3')
-print('Developed by: Sumedh')
+print('Developed by: museHD')
 print()
 print("Description: Based on pyfiglet, this app will convert your text to BASIC ASCII and add formatting for Discord. \nThis will enable you to simply enter text, select border & spacing preference and copy paste it into discord. Enjoy!")
 print("-----------------------------------------------------------------------------------------------------------------------")
