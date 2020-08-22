@@ -2,7 +2,7 @@
 
 Simple script based on the pyfiglet library that converts your message into large ASCII Text and adds the right formatting for Discord
 
-Get it <a href="https://github.com/museHD/Discord-ASCII/releases"> here!</a>
+Get it <a href="https://github.com/museHD/Discord-ASCII/releases"> here</a> for Winodows!
 # Usage:
 
 It is recommended to put the main file in a folder as it will create a settings datafile.
